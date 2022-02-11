@@ -30,7 +30,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  final noticesHeight = 640.toDouble();
+  final noticesHeight = 620.toDouble();
   final List<Tasks> listOfTasks = [
     Tasks(
       title: "Schatz küssen",
